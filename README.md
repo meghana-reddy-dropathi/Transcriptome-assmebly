@@ -1,4 +1,4 @@
-# Module 7 Assignment
+# Transcriptome assembly
 
 ## Author
 
