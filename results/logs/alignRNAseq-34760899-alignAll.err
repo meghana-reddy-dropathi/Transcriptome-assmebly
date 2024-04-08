@@ -1,0 +1,575 @@
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip02.R1.fastq data/trimmed/paired/Aip02.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.16 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.10 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.16 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.53 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.99 sec)
+Starting alignment
+Processed 31478 queries in 50.18 seconds (627.30 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip05.R1.fastq data/trimmed/paired/Aip05.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.20 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.38 sec)
+Starting alignment
+Processed 34475 queries in 44.89 seconds (767.99 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip06.R1.fastq data/trimmed/paired/Aip06.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 39995 queries in 79.51 seconds (503.02 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip12.R1.fastq data/trimmed/paired/Aip12.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 40011 queries in 65.16 seconds (614.04 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip13.R1.fastq data/trimmed/paired/Aip13.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 59779 queries in 86.32 seconds (692.53 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip14.R1.fastq data/trimmed/paired/Aip14.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.06 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.19 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.37 sec)
+Starting alignment
+Processed 36390 queries in 60.40 seconds (602.48 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip15.R1.fastq data/trimmed/paired/Aip15.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 44036 queries in 71.62 seconds (614.86 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip17.R1.fastq data/trimmed/paired/Aip17.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 38810 queries in 63.44 seconds (611.76 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip18.R1.fastq data/trimmed/paired/Aip18.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.06 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.20 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.38 sec)
+Starting alignment
+Processed 41221 queries in 80.07 seconds (514.81 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip19.R1.fastq data/trimmed/paired/Aip19.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.36 sec)
+Starting alignment
+Processed 39185 queries in 66.21 seconds (591.83 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip20.R1.fastq data/trimmed/paired/Aip20.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.03 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.14 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.19 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 42234 queries in 86.19 seconds (490.01 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip21.R1.fastq data/trimmed/paired/Aip21.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 55596 queries in 90.70 seconds (612.97 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip23.R1.fastq data/trimmed/paired/Aip23.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.03 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.04 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 44985 queries in 82.82 seconds (543.17 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip24.R1.fastq data/trimmed/paired/Aip24.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.03 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.04 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 33642 queries in 56.16 seconds (599.04 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip25.R1.fastq data/trimmed/paired/Aip25.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 46138 queries in 72.23 seconds (638.77 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip26.R1.fastq data/trimmed/paired/Aip26.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.03 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.14 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.38 sec)
+Starting alignment
+Processed 33184 queries in 50.05 seconds (663.02 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip28.R1.fastq data/trimmed/paired/Aip28.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.03 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.19 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.35 sec)
+Starting alignment
+Processed 29921 queries in 62.96 seconds (475.24 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip29.R1.fastq data/trimmed/paired/Aip29.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.36 sec)
+Starting alignment
+Processed 49342 queries in 57.61 seconds (856.48 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip30.R1.fastq data/trimmed/paired/Aip30.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.38 sec)
+Starting alignment
+Processed 43250 queries in 75.34 seconds (574.06 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip32.R1.fastq data/trimmed/paired/Aip32.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.19 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.38 sec)
+Starting alignment
+Processed 37934 queries in 55.41 seconds (684.61 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip33.R1.fastq data/trimmed/paired/Aip33.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.04 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.35 sec)
+Starting alignment
+Processed 51796 queries in 73.28 seconds (706.82 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip34.R1.fastq data/trimmed/paired/Aip34.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.35 sec)
+Starting alignment
+Processed 33574 queries in 54.67 seconds (614.12 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip35.R1.fastq data/trimmed/paired/Aip35.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.13 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.36 sec)
+Starting alignment
+Processed 50595 queries in 73.24 seconds (690.81 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip36.R1.fastq data/trimmed/paired/Aip36.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.04 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.05 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.37 sec)
+Starting alignment
+Processed 40261 queries in 75.03 seconds (536.60 queries/sec)
+Note: gsnap.sse42 does not exist.  For faster speed, may want to compile package on an SSE4.2 machine
+Note: gsnap.sse41 does not exist.  For faster speed, may want to compile package on an SSE4.1 machine
+Note: gsnap.ssse3 does not exist.  For faster speed, may want to compile package on an SSSE3 machine
+Note: gsnap.sse2 does not exist.  For faster speed, may want to compile package on an SSE2 machine
+GSNAP version 2021-12-17 called with args: gsnap.nosimd -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Unk.R1.fastq data/trimmed/paired/Unk.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.03 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.04 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.06 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.12 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.19 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.37 sec)
+Starting alignment
+Processed 26590 queries in 250.80 seconds (106.02 queries/sec)
